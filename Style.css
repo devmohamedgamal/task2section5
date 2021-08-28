@@ -1,0 +1,127 @@
+﻿
+body {
+
+    margin: 0;
+}
+.background{
+    background-image:url(anime.jpg);
+    width:100%;
+    height:649px;
+    
+   
+}
+.texthead {
+    text-align: center;
+    color: lightgreen;
+    font-family: 'Kanit', sans-serif;
+    font-weight:normal;
+}
+.text2 {
+    text-align: center;
+    color: white;
+    font-family: 'Kanit', sans-serif;
+    font-size:30px;
+
+}
+.all{
+    width:800px;
+    height:500px;
+   // background-color:blue;
+    margin:auto;
+}
+.form {
+    width: 65%;
+    height: 100%;
+   // background-color: red;
+    float: left;
+    bottom: 0;
+    background: rgb(0, 0, 0); 
+    background: rgba(0, 0, 0, 0.5); 
+    color: #f1f1f1;
+}
+.about{
+    width:35%;
+    height:100%;
+    background-color:black;
+    float:left;
+}
+.text3{
+    color:white;
+    font-size:20px;
+    margin-left:30px;
+    padding-top:40px;
+    font-weight:bold;
+    margin-bottom:10px;
+    
+
+}
+.input {
+    margin-left: 30px;
+    margin-top: 20px;
+    border: 0;
+   // background-color: gray;
+    border-bottom: 1px solid gray;
+    width: 87%;
+    padding-bottom: 10px;
+    bottom: 0;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0);
+    color: #f1f1f1;
+}
+.input1 {
+    margin-left: 30px;
+    margin-top: 20px;
+    border: 0;
+    background-color: red;
+    border-bottom: 1px solid gray;
+    width: 87%;
+    padding-bottom: 120px;
+    bottom: 0;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0);
+    color: #f1f1f1;
+}
+.button{
+    
+    
+    border:0;
+    font-weight:bold;
+    cursor:pointer;
+}
+.btn {
+    width: 460px;
+    height: 40px;
+    margin-left: 30px;
+    margin-top: 30px;
+    background-color: forestgreen;
+    color: white;
+    
+}
+.btn:hover {
+    background: rgb(0,0,0,0);
+    background: rgba(0,0,0,0);
+    color:forestgreen;
+    border:1px solid black;
+}
+
+.about h5{
+    color:white;
+    font-weight:normal;
+    text-align:center;
+    margin:50px 100px 0 0;
+}
+.where {
+    color: green;
+    font-weight: normal;
+    text-align: center;
+    margin: 50px 90px 0 0;
+}
+.where p{
+    color:white;
+    width:230px;
+   // background-color:blue;
+    text-align:left;
+    margin-left:45px;
+    color:gray;
+    font-size:15px;
+}
